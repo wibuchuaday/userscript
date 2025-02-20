@@ -3,7 +3,7 @@
 // @namespace     TienBypass
 // @version       NewVision
 // @author        TienBypass
-// @description   Bypass ad-links using the TienBypass API and get to your destination without ads!
+// @description   Bypass using the TienBypass API and getkey very fast
 // @match         *://mega-guy.com/*
 // @match         *://loot-link.com/*
 // @match         *://best-links.org/*
@@ -189,10 +189,10 @@
 // @match         *://esohasl.net/*
 // @match         *://rbscripts.net/*
 // @match         *://link.rbscripts.net/*
-// @downloadURL   https://raw.githubusercontent.com/bypass-vip/userscript/master/bypass-vip.user.js
-// @updateURL     https://raw.githubusercontent.com/bypass-vip/userscript/master/bypass-vip.user.js
+// @downloadURL   https://raw.githubusercontent.com/wibuchuaday/userscript/refs/heads/main/TienBypass.user.js
+// @updateURL     https://raw.githubusercontent.com/wibuchuaday/userscript/refs/heads/main/TienBypass.user.js
 // @homepageURL   https://TienBypass
-// @icon          https://www.google.com/s2/favicons?domain=TienBypass&sz=64
+// @icon          https://upload.wikimedia.org/wikipedia/commons/4/40/Mangekyou_Sharingan_Kakashi.svg
 // @run-at document-start
 // ==/UserScript==
 
